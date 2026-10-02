@@ -1,0 +1,10 @@
+{
+    "coverage-gutters.showLineCoverage": true,
+    "coverage-gutters.showRulerCoverage": true,
+    "coverage-gutters.coverageReportFileName": "**/coverage.cobertura.xml",
+    "coverage-gutters.coverageFileNames": [
+        "coverage.cobertura.xml",
+        "lcov.info"
+    ],
+    "dotnet.defaultSolution": "BaseTestingLab.sln"
+}
